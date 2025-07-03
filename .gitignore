@@ -1,0 +1,39 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]ssets/StreamingAssets/
+/UserSettings/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# Visual Studio / Rider
+/.idea/
+*.sln
+*.csproj
+*.vs/
+*.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
